@@ -3,6 +3,10 @@
 
 
 <p align="center">
+  
+ <p align="center">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/df35wabu1/image/upload/v1615484692/covid19_r0a098.png">
+</p>
 
 <hr>
 
